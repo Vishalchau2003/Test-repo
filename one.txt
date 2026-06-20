@@ -1,3 +1,5 @@
 this is first file
 add another file to folder
 adding my name 
+adding another text to push automatically
+yes add it
